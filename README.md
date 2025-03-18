@@ -10,6 +10,9 @@
 在推理数据样本上，有几种推理输出格式
 ReAct，明确集成推理和行动，鼓励结构化决策；基于结果的推理，优化明确的预期结果预测，推动目标对齐
 
+## Datasets
+* [OpenManus-RL](https://huggingface.co/datasets/CharlieDreemur/OpenManus-RL)
+
 ## Community
 * [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
 * [RAGEN](https://github.com/ZihanWang314/RAGEN)
