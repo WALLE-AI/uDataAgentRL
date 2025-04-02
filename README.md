@@ -21,3 +21,6 @@ ReAct，明确集成推理和行动，鼓励结构化决策；基于结果的推
 * [AgentInstruct](https://huggingface.co/datasets/THUDM/AgentInstruct)
 * [Search-o1](https://github.com/sunnynexus/Search-o1.git)
 * [R1-searcher](https://github.com/RUCAIBox/R1-Searcher.git)
+* [understand-r1-zero](https://github.com/sail-sg/understand-r1-zero)
+* [Agent-R1](https://github.com/0russwest0/Agent-R1) 类似search-r1策略
+* [ReSearch](https://github.com/Agent-RL/ReSearch) 类似search-r1策略
