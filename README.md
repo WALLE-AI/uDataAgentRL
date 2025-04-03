@@ -15,6 +15,8 @@ ReAct，明确集成推理和行动，鼓励结构化决策；基于结果的推
 
 ## Community
 * [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL)
+* [loong](https://github.com/camel-ai/loong) 类似openmanus的策略
+* [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1/blob/main/construct_verifiable_medical_problems.py)对医疗数据进行cot校核
 * [RAGEN](https://github.com/ZihanWang314/RAGEN)
 * [Search-R1](https://github.com/PeterGriffinJin/Search-R1)
 * [Agent-FLAN](https://huggingface.co/datasets/internlm/Agent-FLAN)
